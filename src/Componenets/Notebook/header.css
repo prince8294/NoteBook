@@ -1,0 +1,11 @@
+.title{
+    display: flex;
+    margin-top: 10vh;
+    margin-left: 20vh;
+}
+.title  span{
+    background: -webkit-linear-gradient(16deg,#ffdd00,#ff1500);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+}

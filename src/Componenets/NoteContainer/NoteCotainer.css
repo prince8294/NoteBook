@@ -1,0 +1,18 @@
+.note-container{
+    height: 100%;
+}
+.note-cotainer_notes{
+    height: 90%;
+    display:flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    overflow-y: scroll;
+}
+.MYBOOK{
+    font-size: 45px;
+    margin-left: -40px;
+    background: -webkit-linear-gradient(50deg,#ff000097,#3801ff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+         margin-bottom: 20px;
+}
